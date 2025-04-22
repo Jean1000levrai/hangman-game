@@ -1,6 +1,8 @@
 JEU DU PENDU
 
-Projet réalisé par Jean Salomon, Elliot Goralczyk et Isidore Billard
+contributeur:
+github.com/Hvrnbi
+github.com/EmberDragons
 
 ------------------Contenu du dossier---------------------
 code.csv
